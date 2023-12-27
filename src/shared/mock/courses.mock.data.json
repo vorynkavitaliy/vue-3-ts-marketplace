@@ -1,0 +1,1251 @@
+[
+    {
+      "id": "658b5711a1b596034e362891",
+      "title": "Lorem Lorem magna irure esse",
+      "description": "Tempor culpa enim culpa eiusmod reprehenderit commodo proident tempor nulla veniam Lorem laboris ea. Ullamco aliqua eiusmod ullamco eiusmod irure nulla laborum dolor minim eu eiusmod. Nulla esse occaecat consectetur duis ex eiusmod proident commodo fugiat aliquip duis Lorem. Ad laborum adipisicing occaecat Lorem ipsum ex fugiat aute deserunt aliquip aliqua.\r\n",
+      "poster": "https://picsum.photos/1549",
+      "pictures": [
+        "https://picsum.photos/1515",
+        "https://picsum.photos/1557"
+      ],
+      "languages": [
+        "JS",
+        "C#"
+      ],
+      "price": 281,
+      "duration": 80,
+      "rate": 4,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711a8ae1f8aedde9772",
+      "title": "voluptate non est anim eu",
+      "description": "In id magna enim adipisicing proident nostrud ullamco voluptate. Excepteur est minim incididunt tempor ullamco ea non nisi consequat quis eu excepteur commodo consequat. Eiusmod adipisicing mollit aute aliqua amet voluptate adipisicing Lorem quis eiusmod nulla do do. Laboris labore aliquip culpa elit excepteur in occaecat est aliqua est. Nulla ea et velit occaecat ut minim adipisicing dolor dolore reprehenderit magna. Qui fugiat eu ut nisi culpa excepteur esse minim.\r\n",
+      "poster": "https://picsum.photos/1582",
+      "pictures": [
+        "https://picsum.photos/1528",
+        "https://picsum.photos/1534",
+        "https://picsum.photos/1513"
+      ],
+      "languages": [
+        "React+Angular",
+        "Python"
+      ],
+      "price": 151,
+      "duration": 55,
+      "rate": 1,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711ca29f17de8a78840",
+      "title": "ex reprehenderit deserunt fugiat aliqua",
+      "description": "Deserunt nulla ea dolor sit aute ut dolore. Qui pariatur fugiat amet amet. Et officia sit cillum ipsum dolore irure qui consectetur eiusmod ad. Occaecat magna ea reprehenderit ut ad sit reprehenderit excepteur labore Lorem cillum ex nulla dolor.\r\n",
+      "poster": "https://picsum.photos/1561",
+      "pictures": [
+        "https://picsum.photos/1568",
+        "https://picsum.photos/1543"
+      ],
+      "languages": [
+        "React+Vue"
+      ],
+      "price": 115,
+      "duration": 84,
+      "rate": 0,
+      "level": "medium"
+    },
+    {
+      "id": "658b57114900b645460812e1",
+      "title": "ipsum consequat id et ullamco",
+      "description": "Laborum mollit cupidatat ipsum nisi esse nisi. Dolor velit non fugiat Lorem proident velit eu nisi deserunt eiusmod consectetur elit nostrud. Nulla aliqua ipsum reprehenderit eiusmod anim deserunt est adipisicing sunt commodo. Occaecat est sit est in mollit sit ea ea est eu tempor anim aliquip mollit. Lorem aute culpa dolore exercitation ex veniam aliquip est adipisicing aliqua eu exercitation. Cupidatat exercitation culpa ad adipisicing id occaecat nulla Lorem ex ea non aliquip.\r\n",
+      "poster": "https://picsum.photos/1542",
+      "pictures": [
+        "https://picsum.photos/1501",
+        "https://picsum.photos/1533",
+        "https://picsum.photos/1537"
+      ],
+      "languages": [
+        "C#"
+      ],
+      "price": 61,
+      "duration": 60,
+      "rate": 2,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711c9a28c9f5f9fcd13",
+      "title": "enim sit anim pariatur adipisicing",
+      "description": "Irure officia adipisicing incididunt elit deserunt officia mollit do tempor enim dolore ea cupidatat reprehenderit. Amet occaecat laboris magna enim. Occaecat minim velit fugiat nisi Lorem ad fugiat. Deserunt laborum elit laboris ut Lorem veniam sunt consectetur anim. Proident Lorem id labore ex incididunt nisi occaecat et. Aute culpa non adipisicing qui dolore fugiat.\r\n",
+      "poster": "https://picsum.photos/1560",
+      "pictures": [
+        "https://picsum.photos/1592",
+        "https://picsum.photos/1589",
+        "https://picsum.photos/1600"
+      ],
+      "languages": [
+        "Vue"
+      ],
+      "price": 333,
+      "duration": 77,
+      "rate": 0,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711e3f51da7cc49409a",
+      "title": "minim laborum est non tempor",
+      "description": "Eiusmod fugiat laboris excepteur dolor. Quis et anim proident id sint sunt excepteur. Cillum dolor esse sunt elit culpa aliqua amet eu ut non esse qui duis. Laboris nulla velit in pariatur fugiat ad nisi exercitation esse sit consectetur dolore deserunt. Eiusmod do irure eu dolore qui dolor esse amet.\r\n",
+      "poster": "https://picsum.photos/1509",
+      "pictures": [
+        "https://picsum.photos/1600"
+      ],
+      "languages": [
+        "Python",
+        "React+Vue",
+        "Java"
+      ],
+      "price": 71,
+      "duration": 81,
+      "rate": 3,
+      "level": "high"
+    },
+    {
+      "id": "658b57113a86ea1ed547002e",
+      "title": "incididunt laboris anim qui sunt",
+      "description": "Ut nisi dolore mollit velit minim magna pariatur proident anim quis magna amet commodo nulla. Qui duis incididunt anim reprehenderit esse pariatur pariatur reprehenderit ipsum minim nulla cupidatat. Velit cillum deserunt nisi dolore culpa in duis veniam. Duis cupidatat commodo anim non exercitation labore aute.\r\n",
+      "poster": "https://picsum.photos/1516",
+      "pictures": [
+        "https://picsum.photos/1564",
+        "https://picsum.photos/1516",
+        "https://picsum.photos/1589"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "price": 40,
+      "duration": 41,
+      "rate": 0,
+      "level": "high"
+    },
+    {
+      "id": "658b571150920b9f1e004bb4",
+      "title": "amet non aliqua reprehenderit nostrud",
+      "description": "Duis eiusmod cillum ipsum est deserunt ut enim. Incididunt velit incididunt velit laboris aliquip id sunt excepteur culpa. Officia aliquip culpa pariatur sunt nostrud et irure anim.\r\n",
+      "poster": "https://picsum.photos/1500",
+      "pictures": [
+        "https://picsum.photos/1507",
+        "https://picsum.photos/1502",
+        "https://picsum.photos/1566"
+      ],
+      "languages": [
+        "Marketing",
+        "React",
+        "C++"
+      ],
+      "price": 25,
+      "duration": 86,
+      "rate": 5,
+      "level": "high"
+    },
+    {
+      "id": "658b57117662a9da3fd85783",
+      "title": "officia sunt et nostrud ea",
+      "description": "Duis quis qui amet dolore elit nulla commodo ea ex nostrud fugiat irure commodo. Nisi sint et officia reprehenderit mollit irure fugiat mollit voluptate laboris. Reprehenderit eu quis tempor aliqua. Et laborum enim ipsum adipisicing ipsum anim minim mollit cupidatat cupidatat et non sint.\r\n",
+      "poster": "https://picsum.photos/1533",
+      "pictures": [
+        "https://picsum.photos/1504",
+        "https://picsum.photos/1592"
+      ],
+      "languages": [
+        "C#"
+      ],
+      "price": 303,
+      "duration": 48,
+      "rate": 4,
+      "level": "high"
+    },
+    {
+      "id": "658b57118e1547a0ab72f666",
+      "title": "sunt velit eu deserunt enim",
+      "description": "Ex culpa velit excepteur ea anim nulla do. Eu cillum incididunt deserunt irure labore et elit reprehenderit anim proident elit voluptate consequat irure. Cupidatat nostrud dolore ullamco quis. Dolor sit nulla ad eu elit laboris id pariatur laborum ex est. Ut anim aute laboris Lorem minim nulla dolore adipisicing commodo. Magna et pariatur reprehenderit incididunt qui amet eu cillum aliquip reprehenderit do pariatur. Id ipsum consectetur irure excepteur sint dolor dolore culpa.\r\n",
+      "poster": "https://picsum.photos/1596",
+      "pictures": [
+        "https://picsum.photos/1550"
+      ],
+      "languages": [
+        "React",
+        "React+Vue",
+        "React"
+      ],
+      "price": 173,
+      "duration": 68,
+      "rate": 2,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711a43ddb0964110a82",
+      "title": "elit elit elit cillum non",
+      "description": "Voluptate Lorem minim est occaecat velit excepteur ut. Lorem aliqua sint tempor commodo officia. Et cupidatat amet duis exercitation proident. Consectetur est Lorem sit qui exercitation aute sunt ut dolore reprehenderit id.\r\n",
+      "poster": "https://picsum.photos/1512",
+      "pictures": [
+        "https://picsum.photos/1522",
+        "https://picsum.photos/1551"
+      ],
+      "languages": [
+        "Vue",
+        "React+Angular"
+      ],
+      "price": 242,
+      "duration": 65,
+      "rate": 0,
+      "level": "medium"
+    },
+    {
+      "id": "658b57117d36bbece62f8577",
+      "title": "laboris irure fugiat ea dolor",
+      "description": "Velit minim tempor esse deserunt laborum cillum est. Excepteur et magna incididunt minim aliquip veniam. Minim elit commodo nulla aute proident magna dolore quis eiusmod commodo consectetur exercitation proident sint. Adipisicing quis quis ipsum mollit nulla enim reprehenderit cillum sunt veniam reprehenderit.\r\n",
+      "poster": "https://picsum.photos/1591",
+      "pictures": [
+        "https://picsum.photos/1551",
+        "https://picsum.photos/1512",
+        "https://picsum.photos/1505"
+      ],
+      "languages": [
+        "C++",
+        "React"
+      ],
+      "price": 200,
+      "duration": 24,
+      "rate": 3,
+      "level": "medium"
+    },
+    {
+      "id": "658b57114fa3ba96c938e0e2",
+      "title": "Lorem do irure mollit pariatur",
+      "description": "Magna aute labore do quis laborum cillum minim eiusmod esse deserunt. Ullamco esse aliquip aliquip est excepteur ea esse culpa ex. Irure amet laboris cillum do aliquip ad eu nulla ea sit anim veniam minim dolor. In quis adipisicing mollit culpa cillum cupidatat. Duis aute laborum nisi culpa duis est nostrud ea voluptate voluptate. Laborum est ullamco ipsum reprehenderit aliqua eiusmod duis. Aliqua ut tempor laborum culpa irure id aliqua officia labore sunt magna minim.\r\n",
+      "poster": "https://picsum.photos/1521",
+      "pictures": [
+        "https://picsum.photos/1521",
+        "https://picsum.photos/1585",
+        "https://picsum.photos/1569"
+      ],
+      "languages": [
+        "C#",
+        "Python"
+      ],
+      "price": 141,
+      "duration": 46,
+      "rate": 5,
+      "level": "high"
+    },
+    {
+      "id": "658b5711a90bf25f0c60b5bb",
+      "title": "duis officia velit ut quis",
+      "description": "Duis ad in deserunt fugiat mollit reprehenderit occaecat qui ullamco id ex. Voluptate pariatur ea labore veniam sunt culpa ea eu. Exercitation est in et labore sunt adipisicing id eu eiusmod dolore pariatur sit. Reprehenderit veniam in irure culpa do in in incididunt aliqua. Fugiat ad officia ad sint nostrud quis ex. In incididunt quis aliqua quis do sint deserunt officia mollit ad amet ex ut.\r\n",
+      "poster": "https://picsum.photos/1508",
+      "pictures": [
+        "https://picsum.photos/1598",
+        "https://picsum.photos/1532",
+        "https://picsum.photos/1504"
+      ],
+      "languages": [
+        "Vue",
+        "React"
+      ],
+      "price": 231,
+      "duration": 30,
+      "rate": 3,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711bfe96b0f577851ff",
+      "title": "do eu pariatur magna veniam",
+      "description": "Officia veniam consectetur dolor magna non ad culpa laborum dolore veniam deserunt minim. Aute commodo aliquip velit eu in nisi dolore ullamco cupidatat. Cupidatat consequat dolor ea Lorem culpa velit qui ex incididunt voluptate ad amet. Magna officia fugiat sunt proident enim irure sint et. Mollit proident magna cillum qui anim pariatur duis sint consequat laborum deserunt irure. Nostrud proident dolor aliqua ad incididunt fugiat ullamco tempor excepteur ut amet. Irure ut voluptate pariatur ex in nisi anim minim.\r\n",
+      "poster": "https://picsum.photos/1541",
+      "pictures": [
+        "https://picsum.photos/1533",
+        "https://picsum.photos/1575",
+        "https://picsum.photos/1512"
+      ],
+      "languages": [
+        "Java"
+      ],
+      "price": 198,
+      "duration": 39,
+      "rate": 2,
+      "level": "medium"
+    },
+    {
+      "id": "658b571163b3f278d7a88390",
+      "title": "ex laborum Lorem laborum voluptate",
+      "description": "Ipsum incididunt eu labore nostrud sunt incididunt do minim aliquip eiusmod adipisicing. Elit deserunt cupidatat commodo adipisicing. Eu magna culpa adipisicing incididunt mollit magna et cillum. Aute anim non voluptate ex ipsum commodo laboris non incididunt non esse. Eiusmod nulla excepteur in fugiat duis aliqua do sint consequat commodo velit. Enim aute qui consectetur est pariatur laborum eu sunt magna. Quis nostrud voluptate commodo nostrud sit officia ut dolor minim est.\r\n",
+      "poster": "https://picsum.photos/1500",
+      "pictures": [
+        "https://picsum.photos/1509",
+        "https://picsum.photos/1597"
+      ],
+      "languages": [
+        "React+Angular",
+        "JS",
+        "React+Angular"
+      ],
+      "price": 288,
+      "duration": 92,
+      "rate": 0,
+      "level": "entry"
+    },
+    {
+      "id": "658b571136301b8bb0ceaebc",
+      "title": "aliqua amet commodo cupidatat pariatur",
+      "description": "Ullamco veniam duis sint dolore irure dolore excepteur. Non Lorem ipsum ullamco ex do fugiat. Qui eiusmod quis quis occaecat fugiat elit commodo aute excepteur do in minim. Aliquip laboris velit in proident enim. Mollit aliqua sint eiusmod duis esse tempor aute deserunt tempor aliquip nulla irure duis.\r\n",
+      "poster": "https://picsum.photos/1505",
+      "pictures": [
+        "https://picsum.photos/1504",
+        "https://picsum.photos/1509",
+        "https://picsum.photos/1579"
+      ],
+      "languages": [
+        "C#",
+        "React+Vue",
+        "Java"
+      ],
+      "price": 46,
+      "duration": 94,
+      "rate": 3,
+      "level": "high"
+    },
+    {
+      "id": "658b57114965377c7aee001c",
+      "title": "consectetur ad proident qui occaecat",
+      "description": "Quis ipsum cillum culpa laboris quis non officia excepteur eiusmod laborum veniam ex pariatur. Amet tempor aliquip officia dolor velit. Esse magna elit fugiat ullamco qui exercitation reprehenderit. Ad aute voluptate labore reprehenderit magna. Voluptate labore fugiat adipisicing officia minim ipsum ullamco ea. Deserunt laborum magna nisi magna.\r\n",
+      "poster": "https://picsum.photos/1509",
+      "pictures": [
+        "https://picsum.photos/1579",
+        "https://picsum.photos/1536",
+        "https://picsum.photos/1517"
+      ],
+      "languages": [
+        "Marketing"
+      ],
+      "price": 346,
+      "duration": 39,
+      "rate": 0,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711825e0dcee34c6356",
+      "title": "amet culpa occaecat Lorem mollit",
+      "description": "Magna voluptate do eu officia amet in eu dolor in esse velit fugiat consectetur. Dolor reprehenderit magna minim esse do eiusmod incididunt. Fugiat excepteur ut ad velit consequat aliqua dolore dolore qui excepteur deserunt occaecat in. Commodo do magna sit ex elit exercitation excepteur sunt eiusmod ex irure culpa eu.\r\n",
+      "poster": "https://picsum.photos/1520",
+      "pictures": [
+        "https://picsum.photos/1506",
+        "https://picsum.photos/1593"
+      ],
+      "languages": [
+        "Python",
+        "Vue"
+      ],
+      "price": 26,
+      "duration": 61,
+      "rate": 1,
+      "level": "medium"
+    },
+    {
+      "id": "658b57114849665895b4ea20",
+      "title": "sint sit sint nisi id",
+      "description": "Ut velit eiusmod consectetur aute incididunt voluptate ipsum in anim qui. Exercitation dolor sit nisi reprehenderit officia pariatur ipsum ea anim laborum deserunt. Sunt anim tempor nulla cupidatat in magna tempor minim ipsum labore fugiat enim est. Elit laboris nisi mollit in aliquip sit Lorem aliqua.\r\n",
+      "poster": "https://picsum.photos/1502",
+      "pictures": [
+        "https://picsum.photos/1508",
+        "https://picsum.photos/1582"
+      ],
+      "languages": [
+        "Vue"
+      ],
+      "price": 217,
+      "duration": 97,
+      "rate": 1,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711b039590046c1857e",
+      "title": "irure amet ullamco anim nisi",
+      "description": "Velit aute irure irure ipsum ea Lorem ad voluptate. Nostrud ex laboris incididunt sunt nulla do in nostrud. Consequat est aute quis cillum aliquip mollit magna laborum enim cupidatat.\r\n",
+      "poster": "https://picsum.photos/1512",
+      "pictures": [
+        "https://picsum.photos/1513"
+      ],
+      "languages": [
+        "React",
+        "React+Angular"
+      ],
+      "price": 109,
+      "duration": 42,
+      "rate": 4,
+      "level": "high"
+    },
+    {
+      "id": "658b571161c1e8538357b2a2",
+      "title": "laboris aliqua consectetur culpa est",
+      "description": "Ad non incididunt sit anim nulla deserunt commodo. Ut dolore minim eu in Lorem irure veniam ut do elit tempor. Et voluptate amet officia qui. Pariatur culpa do ullamco occaecat dolor eiusmod. Enim officia commodo ea sunt consectetur reprehenderit ad veniam consequat.\r\n",
+      "poster": "https://picsum.photos/1599",
+      "pictures": [
+        "https://picsum.photos/1567",
+        "https://picsum.photos/1574",
+        "https://picsum.photos/1534"
+      ],
+      "languages": [
+        "React+Angular",
+        "Vue",
+        "Vue"
+      ],
+      "price": 164,
+      "duration": 81,
+      "rate": 0,
+      "level": "high"
+    },
+    {
+      "id": "658b571151c8198127e5e463",
+      "title": "eu eu ut id cillum",
+      "description": "Veniam amet qui consequat officia enim. Elit voluptate eu esse qui. Ullamco dolore nulla nisi veniam. Fugiat commodo officia ea deserunt. Officia eu consequat ut nostrud excepteur nisi velit excepteur cupidatat consequat id. Reprehenderit cillum culpa aute proident nulla minim officia esse dolor nulla officia. Ipsum sit occaecat ea cupidatat fugiat.\r\n",
+      "poster": "https://picsum.photos/1517",
+      "pictures": [
+        "https://picsum.photos/1591"
+      ],
+      "languages": [
+        "Python",
+        "React+Angular"
+      ],
+      "price": 182,
+      "duration": 33,
+      "rate": 3,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711e9e74487fea9b598",
+      "title": "in est proident ut eiusmod",
+      "description": "Anim id duis labore ullamco pariatur consectetur cillum ipsum dolor velit eiusmod in. Adipisicing Lorem enim enim laboris culpa exercitation consequat eu eu dolor esse sit Lorem. Aute cupidatat non sunt quis laboris mollit exercitation sit ut quis mollit do fugiat. Qui laboris in anim Lorem proident sit exercitation et elit non proident officia. Aliqua ad laboris sunt laboris duis do Lorem nostrud labore eiusmod fugiat. Minim proident Lorem id voluptate minim pariatur enim sint nisi officia esse ea nostrud ut.\r\n",
+      "poster": "https://picsum.photos/1554",
+      "pictures": [
+        "https://picsum.photos/1536"
+      ],
+      "languages": [
+        "Vue",
+        "JS"
+      ],
+      "price": 327,
+      "duration": 100,
+      "rate": 4,
+      "level": "medium"
+    },
+    {
+      "id": "658b57117db33d1f26ed5d0c",
+      "title": "minim aliqua laboris tempor pariatur",
+      "description": "Velit duis aute tempor officia elit. Eu reprehenderit officia anim irure. Officia esse et anim cillum quis elit et consequat nostrud.\r\n",
+      "poster": "https://picsum.photos/1528",
+      "pictures": [
+        "https://picsum.photos/1581",
+        "https://picsum.photos/1518",
+        "https://picsum.photos/1518"
+      ],
+      "languages": [
+        "C#",
+        "C#",
+        "React+Vue"
+      ],
+      "price": 178,
+      "duration": 96,
+      "rate": 5,
+      "level": "high"
+    },
+    {
+      "id": "658b5711157eaf7b01c0bb24",
+      "title": "in laboris voluptate ea pariatur",
+      "description": "Irure adipisicing in pariatur minim adipisicing adipisicing adipisicing adipisicing magna commodo enim. Nisi fugiat incididunt voluptate labore laboris exercitation laboris. Culpa ex ullamco adipisicing laborum consequat. Ea mollit anim est aliqua sunt do tempor occaecat enim veniam. Excepteur reprehenderit aute consequat incididunt.\r\n",
+      "poster": "https://picsum.photos/1578",
+      "pictures": [
+        "https://picsum.photos/1578",
+        "https://picsum.photos/1571",
+        "https://picsum.photos/1552"
+      ],
+      "languages": [
+        "React+Angular",
+        "React+Angular",
+        "React"
+      ],
+      "price": 74,
+      "duration": 43,
+      "rate": 3,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711d62e06d329bcb83d",
+      "title": "veniam occaecat et ad cupidatat",
+      "description": "Mollit velit nostrud nisi eu amet consectetur aliqua. Sint id officia culpa ipsum cillum fugiat consectetur adipisicing non officia anim deserunt est. Sunt et in cillum excepteur excepteur exercitation mollit anim amet id fugiat ad aute nostrud. Sit est aute sit occaecat pariatur commodo elit. Magna nisi occaecat irure nulla ex deserunt. Commodo cillum dolore eu incididunt aliquip consectetur enim sunt ex ad nostrud amet. Ut nulla dolor dolore amet veniam.\r\n",
+      "poster": "https://picsum.photos/1599",
+      "pictures": [
+        "https://picsum.photos/1547",
+        "https://picsum.photos/1546",
+        "https://picsum.photos/1576"
+      ],
+      "languages": [
+        "Vue"
+      ],
+      "price": 229,
+      "duration": 54,
+      "rate": 0,
+      "level": "medium"
+    },
+    {
+      "id": "658b57119aa954c5b30c5e3b",
+      "title": "laborum proident laborum laboris id",
+      "description": "Consequat cillum qui deserunt adipisicing mollit. Ex est aute est reprehenderit sint esse eu officia dolor pariatur occaecat non. Nisi culpa dolore sunt sunt cillum sit sint do amet ut cupidatat.\r\n",
+      "poster": "https://picsum.photos/1548",
+      "pictures": [
+        "https://picsum.photos/1513",
+        "https://picsum.photos/1541"
+      ],
+      "languages": [
+        "React",
+        "JS"
+      ],
+      "price": 342,
+      "duration": 60,
+      "rate": 1,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711c579b91a97474049",
+      "title": "irure veniam nulla laboris consequat",
+      "description": "Ullamco adipisicing ullamco deserunt amet tempor ut ullamco consectetur consequat quis. In do nisi reprehenderit enim pariatur reprehenderit ut pariatur exercitation ex exercitation id. Ut fugiat adipisicing cupidatat nostrud occaecat tempor veniam quis dolore reprehenderit nulla Lorem et quis.\r\n",
+      "poster": "https://picsum.photos/1570",
+      "pictures": [
+        "https://picsum.photos/1561",
+        "https://picsum.photos/1552"
+      ],
+      "languages": [
+        "C#"
+      ],
+      "price": 260,
+      "duration": 57,
+      "rate": 3,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711873a1bea814ea420",
+      "title": "Lorem voluptate culpa dolore culpa",
+      "description": "Nostrud amet quis exercitation culpa in aliquip ipsum nostrud id voluptate dolor voluptate consectetur qui. Sunt ex non anim est minim adipisicing cillum. In enim eu aliquip adipisicing officia occaecat incididunt Lorem consequat pariatur pariatur irure amet. Incididunt labore id id sunt do non est enim nulla quis. Sunt laboris ad sit culpa nisi. Laborum consectetur laborum eu fugiat incididunt aute nisi.\r\n",
+      "poster": "https://picsum.photos/1562",
+      "pictures": [
+        "https://picsum.photos/1570"
+      ],
+      "languages": [
+        "Marketing",
+        "Marketing",
+        "Java"
+      ],
+      "price": 382,
+      "duration": 34,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b57110491787d9dfad8c9",
+      "title": "anim adipisicing laborum occaecat aute",
+      "description": "Elit ipsum in proident ea. Proident cupidatat irure ullamco do. Ea amet eu deserunt esse proident consectetur labore velit sint nulla.\r\n",
+      "poster": "https://picsum.photos/1574",
+      "pictures": [
+        "https://picsum.photos/1540"
+      ],
+      "languages": [
+        "React+Vue",
+        "C++",
+        "Python"
+      ],
+      "price": 249,
+      "duration": 66,
+      "rate": 4,
+      "level": "entry"
+    },
+    {
+      "id": "658b57115590de942036c510",
+      "title": "qui laborum do aute culpa",
+      "description": "Excepteur ex proident sunt in dolor in occaecat labore aliqua ullamco fugiat elit non reprehenderit. Laboris reprehenderit ut est proident commodo. Cillum laborum incididunt incididunt aliqua in dolore commodo. Mollit pariatur adipisicing ut velit labore ullamco eiusmod esse Lorem. Laboris laboris quis incididunt quis pariatur nisi. Anim consequat amet labore dolor sunt nostrud. Occaecat culpa magna et mollit culpa qui consequat ipsum eiusmod anim.\r\n",
+      "poster": "https://picsum.photos/1550",
+      "pictures": [
+        "https://picsum.photos/1530",
+        "https://picsum.photos/1577",
+        "https://picsum.photos/1552"
+      ],
+      "languages": [
+        "React+Angular",
+        "C#",
+        "Vue"
+      ],
+      "price": 81,
+      "duration": 86,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711401925f21b40b1a3",
+      "title": "anim esse Lorem consequat magna",
+      "description": "Culpa fugiat eiusmod Lorem Lorem ex enim dolore velit. Sunt Lorem qui irure incididunt laborum aute duis excepteur Lorem irure. Cillum laboris dolor magna aliqua aliquip velit eu ipsum ad sit ea.\r\n",
+      "poster": "https://picsum.photos/1571",
+      "pictures": [
+        "https://picsum.photos/1585",
+        "https://picsum.photos/1544"
+      ],
+      "languages": [
+        "Vue",
+        "Python"
+      ],
+      "price": 249,
+      "duration": 25,
+      "rate": 3,
+      "level": "high"
+    },
+    {
+      "id": "658b571101df7dd5264ca256",
+      "title": "ad eu proident adipisicing aute",
+      "description": "Ex amet dolor nisi fugiat adipisicing velit. Adipisicing ipsum labore reprehenderit enim do proident anim commodo minim reprehenderit. Et aliqua sit anim fugiat occaecat mollit velit elit est laboris enim. Officia anim nulla deserunt sint ullamco qui fugiat anim do veniam fugiat adipisicing cupidatat non. Adipisicing ut exercitation consectetur sit mollit laborum. Do dolor et nostrud Lorem dolore veniam ea aliquip quis non ipsum velit sint et. Aliquip laborum quis cillum fugiat.\r\n",
+      "poster": "https://picsum.photos/1500",
+      "pictures": [
+        "https://picsum.photos/1547",
+        "https://picsum.photos/1538"
+      ],
+      "languages": [
+        "C#",
+        "JS"
+      ],
+      "price": 269,
+      "duration": 62,
+      "rate": 4,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711099420741756e34a",
+      "title": "enim reprehenderit duis cillum ad",
+      "description": "Reprehenderit consequat veniam dolore irure ullamco ea ex ad eu. Deserunt laborum eu elit in. Est ex mollit aute ullamco labore consectetur velit non consectetur labore reprehenderit et. Sint voluptate magna voluptate consequat incididunt aute velit. Enim consectetur laboris elit cillum cillum consectetur ea qui qui veniam. Laboris enim reprehenderit adipisicing sit non commodo tempor ipsum mollit exercitation dolor exercitation consequat consectetur.\r\n",
+      "poster": "https://picsum.photos/1565",
+      "pictures": [
+        "https://picsum.photos/1550",
+        "https://picsum.photos/1562"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "price": 215,
+      "duration": 59,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b57113a999806099514f1",
+      "title": "enim incididunt nostrud qui amet",
+      "description": "Cupidatat in magna velit in deserunt dolor anim. Qui dolor consequat ad reprehenderit veniam ad dolor minim elit ea qui ullamco. Nulla exercitation et consectetur cupidatat dolore officia aute ea. Aliqua proident proident aute labore nulla cillum culpa cillum.\r\n",
+      "poster": "https://picsum.photos/1573",
+      "pictures": [
+        "https://picsum.photos/1545",
+        "https://picsum.photos/1547"
+      ],
+      "languages": [
+        "JS",
+        "React+Angular",
+        "React+Angular"
+      ],
+      "price": 88,
+      "duration": 34,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711d94977bc2c8eb7eb",
+      "title": "esse duis ipsum cillum veniam",
+      "description": "Occaecat sint incididunt minim deserunt magna est qui ad eiusmod aute. Sit reprehenderit quis mollit anim exercitation consequat veniam aliqua eiusmod aute dolor. Voluptate ea laborum dolor sint sit id dolor. Commodo laborum ea et consectetur pariatur sint officia minim aliquip tempor exercitation consectetur commodo.\r\n",
+      "poster": "https://picsum.photos/1562",
+      "pictures": [
+        "https://picsum.photos/1585",
+        "https://picsum.photos/1548"
+      ],
+      "languages": [
+        "Vue",
+        "React",
+        "JS"
+      ],
+      "price": 33,
+      "duration": 85,
+      "rate": 4,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711f86ee9d00a68b301",
+      "title": "consequat cupidatat consectetur mollit aute",
+      "description": "Dolor voluptate amet laboris cillum sunt cupidatat. Ut eu qui deserunt veniam excepteur pariatur irure commodo anim velit veniam est adipisicing eiusmod. Magna occaecat et consectetur dolor proident tempor ea duis voluptate commodo. Id amet pariatur laborum magna culpa ut velit nostrud nostrud deserunt est ut Lorem occaecat. Adipisicing anim cillum cillum pariatur id ad.\r\n",
+      "poster": "https://picsum.photos/1572",
+      "pictures": [
+        "https://picsum.photos/1561",
+        "https://picsum.photos/1554"
+      ],
+      "languages": [
+        "Python",
+        "C#"
+      ],
+      "price": 141,
+      "duration": 83,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711d97880c214d21ef4",
+      "title": "veniam cillum reprehenderit do fugiat",
+      "description": "Et veniam aliqua quis dolore laborum. Minim occaecat id dolore aute exercitation eiusmod et laboris aute do occaecat amet in. Ullamco consectetur occaecat pariatur laboris aliquip.\r\n",
+      "poster": "https://picsum.photos/1500",
+      "pictures": [
+        "https://picsum.photos/1558"
+      ],
+      "languages": [
+        "Java"
+      ],
+      "price": 125,
+      "duration": 43,
+      "rate": 5,
+      "level": "high"
+    },
+    {
+      "id": "658b57113d671c070cf182f6",
+      "title": "proident consequat labore enim ut",
+      "description": "Duis incididunt excepteur quis ex nulla laboris excepteur amet elit anim. Deserunt sint duis nostrud eiusmod consequat irure officia culpa ipsum quis. Voluptate dolor incididunt elit do est nostrud veniam.\r\n",
+      "poster": "https://picsum.photos/1582",
+      "pictures": [
+        "https://picsum.photos/1505"
+      ],
+      "languages": [
+        "Vue"
+      ],
+      "price": 331,
+      "duration": 74,
+      "rate": 5,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711d4013d36eb40d234",
+      "title": "in cupidatat nisi adipisicing pariatur",
+      "description": "Deserunt excepteur anim exercitation esse quis culpa laboris esse sit amet irure mollit sit. Et enim aliqua proident qui duis dolore. Aliquip officia eu officia excepteur. Aute anim nisi voluptate nisi et anim do cupidatat incididunt excepteur.\r\n",
+      "poster": "https://picsum.photos/1550",
+      "pictures": [
+        "https://picsum.photos/1549",
+        "https://picsum.photos/1590"
+      ],
+      "languages": [
+        "React",
+        "React+Vue"
+      ],
+      "price": 286,
+      "duration": 51,
+      "rate": 3,
+      "level": "medium"
+    },
+    {
+      "id": "658b571146f4c3c6a79f4d70",
+      "title": "nulla duis fugiat velit aliqua",
+      "description": "Proident proident dolor ut ut adipisicing veniam commodo dolore eu qui ullamco adipisicing ut consequat. Ea adipisicing duis tempor ipsum officia ad exercitation amet. Est amet sit ea labore excepteur enim qui esse occaecat cillum sunt consectetur nisi. Eiusmod sunt do deserunt ut amet officia sit Lorem exercitation eu. Amet pariatur cupidatat ipsum consectetur culpa.\r\n",
+      "poster": "https://picsum.photos/1577",
+      "pictures": [
+        "https://picsum.photos/1533",
+        "https://picsum.photos/1587",
+        "https://picsum.photos/1555"
+      ],
+      "languages": [
+        "Vue",
+        "C#"
+      ],
+      "price": 99,
+      "duration": 66,
+      "rate": 2,
+      "level": "entry"
+    },
+    {
+      "id": "658b57111435cf9f37b188d4",
+      "title": "id pariatur ea mollit fugiat",
+      "description": "Ipsum laboris ut incididunt sint pariatur voluptate. Ipsum Lorem ipsum consectetur minim sit consectetur Lorem esse dolor officia duis dolor. Velit sit magna reprehenderit nulla nostrud et culpa minim excepteur. Aute sint incididunt do voluptate elit eu labore ad magna dolore exercitation.\r\n",
+      "poster": "https://picsum.photos/1589",
+      "pictures": [
+        "https://picsum.photos/1520",
+        "https://picsum.photos/1582",
+        "https://picsum.photos/1557"
+      ],
+      "languages": [
+        "JS",
+        "React+Angular",
+        "JS"
+      ],
+      "price": 125,
+      "duration": 63,
+      "rate": 0,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711761a5cc790bbd5a7",
+      "title": "laboris esse id id eu",
+      "description": "Nostrud nulla labore amet eiusmod irure. Reprehenderit nulla sit excepteur esse anim commodo ea dolore elit. Qui adipisicing adipisicing consectetur pariatur ut culpa est sit do. Sint eu magna veniam cupidatat quis enim. Pariatur nisi commodo irure et id nisi officia eu reprehenderit anim eiusmod labore adipisicing. Reprehenderit ullamco cupidatat cupidatat qui cupidatat in consequat elit non. Nisi ullamco dolore exercitation ad quis est exercitation ullamco exercitation minim.\r\n",
+      "poster": "https://picsum.photos/1567",
+      "pictures": [
+        "https://picsum.photos/1541"
+      ],
+      "languages": [
+        "React+Angular"
+      ],
+      "price": 328,
+      "duration": 100,
+      "rate": 0,
+      "level": "high"
+    },
+    {
+      "id": "658b5711d027c9578519c98b",
+      "title": "eiusmod elit dolor esse in",
+      "description": "Consequat enim et sunt velit anim ex dolor. Ipsum nostrud consequat commodo in sunt aute dolor cupidatat laborum do culpa culpa officia voluptate. Voluptate pariatur cupidatat aute non reprehenderit cillum occaecat labore eu eiusmod proident enim id aliquip. Incididunt sunt nisi commodo pariatur qui fugiat sint irure fugiat do sit magna. Ipsum do id qui officia elit do tempor tempor do. Velit minim sint nostrud exercitation aliquip do labore veniam deserunt. Pariatur ea reprehenderit nostrud laborum nulla mollit occaecat adipisicing.\r\n",
+      "poster": "https://picsum.photos/1536",
+      "pictures": [
+        "https://picsum.photos/1515",
+        "https://picsum.photos/1515"
+      ],
+      "languages": [
+        "Marketing",
+        "React+Vue",
+        "React"
+      ],
+      "price": 231,
+      "duration": 74,
+      "rate": 4,
+      "level": "high"
+    },
+    {
+      "id": "658b5711b3d47f8b5ec537d5",
+      "title": "ad minim non laboris ullamco",
+      "description": "Qui elit reprehenderit eu cillum sint labore in laborum aliqua excepteur amet. Do eiusmod dolore sit elit eiusmod tempor ex. Sunt anim adipisicing consequat mollit quis irure nulla ex. Incididunt tempor pariatur nostrud aliquip in fugiat do do magna nostrud dolor incididunt.\r\n",
+      "poster": "https://picsum.photos/1556",
+      "pictures": [
+        "https://picsum.photos/1524",
+        "https://picsum.photos/1599",
+        "https://picsum.photos/1506"
+      ],
+      "languages": [
+        "Python",
+        "Vue"
+      ],
+      "price": 272,
+      "duration": 73,
+      "rate": 2,
+      "level": "high"
+    },
+    {
+      "id": "658b57117097b99b06e8cb50",
+      "title": "dolor sit non est amet",
+      "description": "Ullamco anim reprehenderit Lorem Lorem est anim minim elit ullamco officia eiusmod laboris. Sit commodo irure ipsum cupidatat et nisi sit. Culpa eu culpa consequat nulla ullamco in ex ut pariatur eu. Qui cupidatat laborum do irure exercitation qui. Ea quis non aliqua quis cillum ipsum duis laborum officia consectetur. Non et ullamco cillum ex et. Nulla velit eu qui adipisicing et aliquip.\r\n",
+      "poster": "https://picsum.photos/1569",
+      "pictures": [
+        "https://picsum.photos/1543"
+      ],
+      "languages": [
+        "Python",
+        "C++",
+        "React+Angular"
+      ],
+      "price": 26,
+      "duration": 96,
+      "rate": 1,
+      "level": "entry"
+    },
+    {
+      "id": "658b57118ccb39dd3504b4d6",
+      "title": "quis fugiat voluptate minim irure",
+      "description": "Occaecat occaecat quis magna laboris fugiat exercitation proident Lorem ullamco. Mollit nostrud et laboris excepteur commodo quis excepteur voluptate officia. Amet adipisicing sit anim occaecat labore eiusmod quis exercitation ea officia excepteur aliquip nisi.\r\n",
+      "poster": "https://picsum.photos/1502",
+      "pictures": [
+        "https://picsum.photos/1585",
+        "https://picsum.photos/1538"
+      ],
+      "languages": [
+        "Vue"
+      ],
+      "price": 320,
+      "duration": 90,
+      "rate": 0,
+      "level": "medium"
+    },
+    {
+      "id": "658b571102386bc5874db561",
+      "title": "ad commodo commodo fugiat fugiat",
+      "description": "Elit nisi anim ullamco nulla laboris dolore sit sunt. Pariatur elit est deserunt cupidatat. Officia culpa quis eu fugiat occaecat labore magna. Quis enim in occaecat officia. Ad quis aliquip non ex ullamco ipsum consectetur commodo eiusmod. Eu sunt eiusmod aliqua esse.\r\n",
+      "poster": "https://picsum.photos/1583",
+      "pictures": [
+        "https://picsum.photos/1565",
+        "https://picsum.photos/1544"
+      ],
+      "languages": [
+        "Marketing"
+      ],
+      "price": 336,
+      "duration": 95,
+      "rate": 4,
+      "level": "medium"
+    },
+    {
+      "id": "658b571174880908a4f1b47d",
+      "title": "quis dolor nisi in ullamco",
+      "description": "Tempor adipisicing elit Lorem nulla nulla ad quis. Nisi anim amet officia esse irure aliqua cupidatat aliquip. Dolore ad nulla commodo est sint nisi quis consequat quis voluptate. Irure proident occaecat eu nostrud minim.\r\n",
+      "poster": "https://picsum.photos/1581",
+      "pictures": [
+        "https://picsum.photos/1573",
+        "https://picsum.photos/1552"
+      ],
+      "languages": [
+        "React+Angular"
+      ],
+      "price": 162,
+      "duration": 75,
+      "rate": 2,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711c9471f11041128c6",
+      "title": "in est cupidatat sunt occaecat",
+      "description": "Occaecat laboris duis sunt cupidatat tempor sunt ipsum cupidatat reprehenderit qui do dolore excepteur. Nulla proident officia anim ad ipsum amet nisi nisi nisi proident mollit velit proident esse. Aliqua Lorem excepteur incididunt irure aliquip laborum reprehenderit ea velit. Minim veniam fugiat eiusmod nostrud fugiat fugiat eiusmod et Lorem laboris mollit voluptate. Laboris dolor tempor proident reprehenderit qui deserunt.\r\n",
+      "poster": "https://picsum.photos/1556",
+      "pictures": [
+        "https://picsum.photos/1559"
+      ],
+      "languages": [
+        "React",
+        "Python"
+      ],
+      "price": 372,
+      "duration": 56,
+      "rate": 1,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711cc73ff9333e285bb",
+      "title": "anim aliquip est ex esse",
+      "description": "Aliquip irure exercitation elit aliquip deserunt excepteur non commodo est sit est culpa do qui. Aliqua do irure incididunt sunt velit et labore do mollit. Ullamco cillum tempor excepteur quis est commodo adipisicing.\r\n",
+      "poster": "https://picsum.photos/1540",
+      "pictures": [
+        "https://picsum.photos/1598",
+        "https://picsum.photos/1531"
+      ],
+      "languages": [
+        "React+Angular",
+        "React+Angular",
+        "Java"
+      ],
+      "price": 56,
+      "duration": 85,
+      "rate": 4,
+      "level": "high"
+    },
+    {
+      "id": "658b57114f8b7542a0b6c91f",
+      "title": "non ad sit tempor sunt",
+      "description": "Consectetur tempor sit nisi in consectetur ullamco magna excepteur consequat ullamco ut consectetur. Minim Lorem anim labore velit fugiat labore. Consectetur ut irure est reprehenderit cillum ullamco ea et tempor consectetur non magna do. Nisi aliquip labore quis exercitation amet culpa aute cupidatat ut do est veniam ea.\r\n",
+      "poster": "https://picsum.photos/1555",
+      "pictures": [
+        "https://picsum.photos/1529",
+        "https://picsum.photos/1502"
+      ],
+      "languages": [
+        "Marketing"
+      ],
+      "price": 123,
+      "duration": 63,
+      "rate": 2,
+      "level": "high"
+    },
+    {
+      "id": "658b57118da881803fc11bbc",
+      "title": "non magna dolor Lorem sint",
+      "description": "Incididunt consectetur excepteur incididunt ex ipsum duis commodo est in incididunt sit eu. Est deserunt velit incididunt laborum sit. Duis ex laboris veniam officia cillum quis eu ullamco sit consectetur mollit voluptate. Excepteur duis culpa est id non ipsum esse qui. Ullamco incididunt elit ex incididunt ad esse voluptate ipsum est est velit.\r\n",
+      "poster": "https://picsum.photos/1549",
+      "pictures": [
+        "https://picsum.photos/1599",
+        "https://picsum.photos/1517",
+        "https://picsum.photos/1501"
+      ],
+      "languages": [
+        "React+Vue"
+      ],
+      "price": 40,
+      "duration": 95,
+      "rate": 1,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711a3405387574b8520",
+      "title": "amet elit ipsum nostrud commodo",
+      "description": "Ut velit ipsum adipisicing ullamco enim reprehenderit exercitation. Laboris culpa aliqua mollit et non aliqua sunt ut magna laborum nulla laborum. Eu cillum id nisi cupidatat sunt enim excepteur minim pariatur in in.\r\n",
+      "poster": "https://picsum.photos/1590",
+      "pictures": [
+        "https://picsum.photos/1510",
+        "https://picsum.photos/1585",
+        "https://picsum.photos/1594"
+      ],
+      "languages": [
+        "React+Angular",
+        "React",
+        "Vue"
+      ],
+      "price": 345,
+      "duration": 80,
+      "rate": 0,
+      "level": "medium"
+    },
+    {
+      "id": "658b5711775da8620af7701e",
+      "title": "sunt fugiat tempor adipisicing ex",
+      "description": "Labore ad dolor laborum cillum dolor exercitation aliqua. Duis Lorem laborum excepteur ad occaecat quis Lorem ea deserunt tempor commodo ad in eu. Aliqua voluptate nostrud Lorem ea magna aliqua irure commodo ad duis exercitation. Qui consectetur in proident eiusmod elit esse ea aliquip labore non non. Laboris eiusmod nostrud consequat veniam cillum do quis esse.\r\n",
+      "poster": "https://picsum.photos/1540",
+      "pictures": [
+        "https://picsum.photos/1506"
+      ],
+      "languages": [
+        "JS",
+        "Python",
+        "React+Vue"
+      ],
+      "price": 80,
+      "duration": 32,
+      "rate": 2,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711eaade5b44d519126",
+      "title": "magna reprehenderit aute consequat duis",
+      "description": "Commodo ut id laboris et voluptate culpa tempor labore veniam aliquip. Sunt sunt quis cillum magna mollit sint tempor duis velit proident labore deserunt. Quis magna cillum sint laboris sit velit do minim culpa anim eu dolore.\r\n",
+      "poster": "https://picsum.photos/1541",
+      "pictures": [
+        "https://picsum.photos/1553",
+        "https://picsum.photos/1549"
+      ],
+      "languages": [
+        "Python",
+        "React+Vue",
+        "React"
+      ],
+      "price": 266,
+      "duration": 46,
+      "rate": 2,
+      "level": "medium"
+    },
+    {
+      "id": "658b57113e2ca45ea8a2ba8b",
+      "title": "in incididunt deserunt consectetur veniam",
+      "description": "Incididunt laborum do dolor et adipisicing Lorem quis laboris dolore labore elit sit veniam ea. Anim consectetur fugiat commodo aliqua ullamco adipisicing consectetur exercitation voluptate fugiat. Lorem occaecat adipisicing id id est laborum mollit do.\r\n",
+      "poster": "https://picsum.photos/1586",
+      "pictures": [
+        "https://picsum.photos/1552",
+        "https://picsum.photos/1516"
+      ],
+      "languages": [
+        "React"
+      ],
+      "price": 206,
+      "duration": 39,
+      "rate": 4,
+      "level": "entry"
+    },
+    {
+      "id": "658b5711bc8315df3fdc12a7",
+      "title": "quis qui fugiat id eiusmod",
+      "description": "Nulla consectetur labore pariatur enim velit quis. Labore proident esse esse cillum id pariatur nisi excepteur labore ea ad nulla. Reprehenderit fugiat labore ad nulla nulla duis ea esse quis. Tempor reprehenderit est Lorem et adipisicing excepteur non occaecat aliqua amet ea officia nulla.\r\n",
+      "poster": "https://picsum.photos/1564",
+      "pictures": [
+        "https://picsum.photos/1555",
+        "https://picsum.photos/1560",
+        "https://picsum.photos/1517"
+      ],
+      "languages": [
+        "Vue",
+        "React+Vue"
+      ],
+      "price": 272,
+      "duration": 24,
+      "rate": 3,
+      "level": "high"
+    },
+    {
+      "id": "658b57116752169371851abb",
+      "title": "pariatur est non adipisicing esse",
+      "description": "Mollit pariatur adipisicing id in nisi deserunt cillum reprehenderit sint. Commodo non non ex dolore commodo cupidatat laborum ullamco nostrud laboris nulla enim excepteur. Amet veniam culpa consectetur laboris ea magna ullamco velit Lorem anim occaecat minim. Reprehenderit irure non eu ut ullamco. Nulla aliquip reprehenderit adipisicing occaecat qui deserunt exercitation. Duis tempor Lorem ea minim exercitation ullamco aliquip incididunt voluptate non in sit elit ea. Id tempor dolore eiusmod est voluptate.\r\n",
+      "poster": "https://picsum.photos/1534",
+      "pictures": [
+        "https://picsum.photos/1595"
+      ],
+      "languages": [
+        "Java",
+        "JS",
+        "C#"
+      ],
+      "price": 211,
+      "duration": 34,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b57118c3fc9824a808935",
+      "title": "adipisicing amet labore est elit",
+      "description": "Quis veniam labore ea occaecat sint. Pariatur consequat quis anim officia dolor nostrud ea eu eu proident ex sit laborum laboris. Adipisicing incididunt eiusmod aliquip pariatur elit veniam in. Ut elit magna laborum consequat amet voluptate nostrud. Ad fugiat in aliquip proident magna nostrud pariatur fugiat esse. Sit Lorem pariatur qui commodo.\r\n",
+      "poster": "https://picsum.photos/1557",
+      "pictures": [
+        "https://picsum.photos/1512"
+      ],
+      "languages": [
+        "React+Vue",
+        "JS",
+        "C++"
+      ],
+      "price": 32,
+      "duration": 45,
+      "rate": 2,
+      "level": "high"
+    },
+    {
+      "id": "658b571170fc8360be269ea5",
+      "title": "reprehenderit cupidatat exercitation esse mollit",
+      "description": "Labore amet tempor veniam veniam qui eiusmod aute do pariatur dolore. Lorem cupidatat voluptate tempor amet quis amet consectetur commodo elit cillum. Sit Lorem consequat cupidatat id duis nisi consectetur qui non proident. Et esse incididunt do aliquip adipisicing consectetur reprehenderit ut ut sunt quis consequat. Ullamco qui ea aliqua commodo officia aute nostrud. Eu adipisicing do sit ad eu aute ea consequat reprehenderit anim voluptate laboris commodo.\r\n",
+      "poster": "https://picsum.photos/1589",
+      "pictures": [
+        "https://picsum.photos/1542"
+      ],
+      "languages": [
+        "Vue",
+        "Marketing",
+        "C#"
+      ],
+      "price": 78,
+      "duration": 82,
+      "rate": 2,
+      "level": "medium"
+    },
+    {
+      "id": "658b57112edb86ab4f4a5366",
+      "title": "consectetur ut ipsum excepteur aliqua",
+      "description": "Eu do deserunt labore ut ea velit quis mollit esse qui id nostrud. Ipsum amet ut nisi ullamco officia in ad dolor. Qui ut ea laboris pariatur quis irure. Fugiat in Lorem dolore minim. Eiusmod mollit enim irure aliqua amet consectetur sunt duis eiusmod est ex ea culpa.\r\n",
+      "poster": "https://picsum.photos/1557",
+      "pictures": [
+        "https://picsum.photos/1598"
+      ],
+      "languages": [
+        "Java"
+      ],
+      "price": 218,
+      "duration": 20,
+      "rate": 2,
+      "level": "medium"
+    },
+    {
+      "id": "658b5712011d40cf546b75c7",
+      "title": "ea nisi aliquip cillum veniam",
+      "description": "Veniam duis proident aliqua enim in non adipisicing. Laboris laboris anim consectetur cupidatat. Id qui eiusmod dolor eiusmod quis officia consequat officia est esse laboris eiusmod pariatur esse. Sint reprehenderit eu sint ea dolor amet ipsum incididunt nisi. Fugiat nulla laborum aute duis irure consequat ea est nisi officia. Ad cupidatat aute dolor laborum nisi quis velit.\r\n",
+      "poster": "https://picsum.photos/1549",
+      "pictures": [
+        "https://picsum.photos/1507",
+        "https://picsum.photos/1558",
+        "https://picsum.photos/1589"
+      ],
+      "languages": [
+        "React+Angular",
+        "JS",
+        "React+Vue"
+      ],
+      "price": 33,
+      "duration": 45,
+      "rate": 1,
+      "level": "entry"
+    },
+    {
+      "id": "658b5712f58e5a77fc030107",
+      "title": "Lorem adipisicing ut consectetur elit",
+      "description": "Qui officia veniam elit tempor ipsum magna aliquip commodo ea. Do quis id velit qui mollit sunt consequat ipsum culpa occaecat dolore pariatur ex nostrud. Mollit incididunt occaecat in consectetur ex ea duis. Qui cillum aute nisi mollit in aliquip ad adipisicing. Cupidatat anim in excepteur quis cupidatat et tempor ipsum magna Lorem ea aliqua tempor.\r\n",
+      "poster": "https://picsum.photos/1594",
+      "pictures": [
+        "https://picsum.photos/1501"
+      ],
+      "languages": [
+        "JS",
+        "React+Vue",
+        "Python"
+      ],
+      "price": 106,
+      "duration": 64,
+      "rate": 4,
+      "level": "high"
+    },
+    {
+      "id": "658b571291e566cf065e97fe",
+      "title": "mollit reprehenderit sit excepteur sit",
+      "description": "Aliquip consectetur exercitation ullamco voluptate in sint laborum tempor amet. Veniam consequat adipisicing voluptate eu magna ut. Esse magna quis anim irure do culpa amet commodo commodo et officia.\r\n",
+      "poster": "https://picsum.photos/1571",
+      "pictures": [
+        "https://picsum.photos/1543"
+      ],
+      "languages": [
+        "JS",
+        "Java"
+      ],
+      "price": 226,
+      "duration": 50,
+      "rate": 1,
+      "level": "high"
+    },
+    {
+      "id": "658b57129dab2005ea45a2c2",
+      "title": "occaecat ad in nisi laboris",
+      "description": "Elit velit cupidatat occaecat excepteur dolor occaecat ea. Aliquip dolor elit irure officia laboris eu laboris minim est mollit incididunt. Fugiat proident eu excepteur officia Lorem adipisicing ex exercitation est laborum qui aliqua. Aute consectetur consequat fugiat minim veniam elit velit incididunt quis exercitation nulla. Officia excepteur sint qui cupidatat ullamco duis non cillum elit elit nulla. Enim eu esse excepteur enim esse consequat.\r\n",
+      "poster": "https://picsum.photos/1506",
+      "pictures": [
+        "https://picsum.photos/1512"
+      ],
+      "languages": [
+        "React+Angular"
+      ],
+      "price": 155,
+      "duration": 24,
+      "rate": 5,
+      "level": "medium"
+    },
+    {
+      "id": "658b5712d3f6e018929e5842",
+      "title": "ullamco mollit labore aliqua non",
+      "description": "Nisi non culpa quis exercitation voluptate enim ea non occaecat nostrud nostrud Lorem ipsum. Officia aute adipisicing deserunt duis pariatur anim do pariatur qui. Ea elit consectetur nisi officia cupidatat irure.\r\n",
+      "poster": "https://picsum.photos/1554",
+      "pictures": [
+        "https://picsum.photos/1540"
+      ],
+      "languages": [
+        "React+Vue",
+        "Vue",
+        "Python"
+      ],
+      "price": 132,
+      "duration": 20,
+      "rate": 5,
+      "level": "entry"
+    },
+    {
+      "id": "658b57128a984d67d2571526",
+      "title": "irure labore amet dolore incididunt",
+      "description": "Quis id irure eu exercitation cupidatat proident deserunt deserunt consectetur id occaecat. Do pariatur ullamco consectetur quis elit nulla ad reprehenderit aute magna consequat enim. Aliquip eiusmod officia ea sit nisi cillum sint labore consequat consectetur nulla id id velit. Proident in eiusmod et occaecat commodo laborum elit incididunt fugiat consectetur. Laboris labore anim consectetur tempor. Eu adipisicing consequat cupidatat cupidatat ipsum excepteur sit et et. Pariatur exercitation mollit id ad magna.\r\n",
+      "poster": "https://picsum.photos/1532",
+      "pictures": [
+        "https://picsum.photos/1560",
+        "https://picsum.photos/1514"
+      ],
+      "languages": [
+        "JS",
+        "Vue",
+        "C++"
+      ],
+      "price": 341,
+      "duration": 26,
+      "rate": 5,
+      "level": "entry"
+    }
+  ]

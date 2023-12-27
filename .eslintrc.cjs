@@ -1,0 +1,45 @@
+module.exports = {
+    root: true,
+    env: {
+        browser: true,
+        node: true,
+    },
+    extends: [
+        'plugin:vue/vue3-essential',
+        'eslint:recommended',
+        '@vue/eslint-config-prettier',
+    ],
+    parserOptions: {
+        parser: '@babel/eslint-parser',
+        requireConfigFile: false,
+    },
+    rules: {
+        'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
+        'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
+        indent: ['error', 4],
+        'vue/attribute-hyphenation': 'off',
+        'vue/singleline-html-element-content-newline': 'off',
+        'vue/html-self-closing': 'off',
+        'space-before-function-paren': ['error', 'never'],
+        curly: ['error', 'multi-line'],
+        'comma-dangle': ['error', 'always-multiline'],
+        'no-extra-semi': 'error',
+        semi: ['error', 'never'],
+        // 'no-extra-parens': 'error',
+        'no-param-reassign': 'error',
+        quotes: ['error', 'single'],
+        // 'linebreak-style': ['error', 'unix'],
+        'max-len': [
+            'error',
+            {
+                code: 100,
+                tabWidth: 4,
+                ignoreComments: true,
+                ignoreTrailingComments: true,
+                ignoreUrls: true,
+                ignoreStrings: true,
+                ignoreTemplateLiterals: true,
+            },
+        ],
+    },
+}
