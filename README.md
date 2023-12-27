@@ -4,7 +4,7 @@ This project is a template to kickstart your development journey with Vue 3, Typ
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/your-username/your-project.git
+1. Clone the repository: git clone https://github.com/vorynkavitaliy/vue-3-ts-marketplace.git
 2. Navigate to the project directory: cd your-project
 3. Install dependencies: npm install
 4. Run the project: npm run start:<mode>
