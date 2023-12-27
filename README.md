@@ -1,10 +1,21 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a template to kickstart your development journey with Vue 3, TypeScript, and Vite. It utilizes Vue 3 <script setup> Single File Components (SFCs), taking advantage of the script setup docs.
 
-## Recommended IDE Setup
+## Usage
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. Clone the repository: git clone https://github.com/your-username/your-project.git
+2. Navigate to the project directory: cd your-project
+3. Install dependencies: npm install
+4. Run the project: npm run start:<mode>
+
+## Build
+To build the project, use the following command: npm run build
+
+## Configuration
+
+1. Create a copy of env.example and name it .env.
+2. Fill in the necessary configuration values in the .env file.
 
 ## Type Support For `.vue` Imports in TS
 
